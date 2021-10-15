@@ -138,6 +138,10 @@
 
 ## Mingrui Li
 
+* **Entanglement Spectroscopy and probing the Li-Haldane Conjecture in Topological Quantum Matter**
+  Torsten V. Zache, Christian Kokail, Bhuvanesh Sundar, Peter Zoller
+  https://arxiv.org/abs/2110.03913
+
 ***
 
 ## Zeyao Han
